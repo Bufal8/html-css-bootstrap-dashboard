@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header */
+.ms_nav_search{
+    width: 25em;
+}
+
+/* Side nav */
+.ms_side{
+    height: 100vh;
+    width: 8em;
+    background-color: #061e34;
+}
