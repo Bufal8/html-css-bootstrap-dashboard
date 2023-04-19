@@ -2,6 +2,9 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+main{
+    display: flex;
+}
 /* Header */
 .ms_nav_search{
     width: 25em;
