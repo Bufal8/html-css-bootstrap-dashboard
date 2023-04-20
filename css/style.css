@@ -12,7 +12,14 @@ main{
 
 /* Side nav */
 .ms_side{
-    height: 100vh;
+    height:calc(100% - 85px);
     width: 8em;
     background-color: #061e34;
+}
+
+/* Main */
+/* Sub header */
+.ms_sub-header-title{
+    display: inline;
+    font-size: 20px;
 }
